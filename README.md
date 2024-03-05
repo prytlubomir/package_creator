@@ -5,12 +5,12 @@
 ## Usage
 
 In `Linux`:
-    - `python3 [path_to_directory]\mkp.py [packages]`, or
-    - `python3 mkp.py [packages]`.
+   - `python3 [path_to_directory]\mkp.py [packages]`, or
+   - `python3 mkp.py [packages]`.
 
 In `Windows`:
-    - `python [path_to_directory]\mkp.py [packages]`, or
-    - `python mkp.py [packages]`
+   - `python [path_to_directory]\mkp.py [packages]`, or
+   - `python mkp.py [packages]`
 
 `path_to_directory` - the path to the directory with the program;
 `packages` - the names of the packages you want to create;
