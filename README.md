@@ -1,7 +1,5 @@
 # Python Package Creator
 
-## Description
-
 ### This tool will help you quickly create one or more Python packages, without the need to manually create directories and `__init__.py` files in them.
 
 ## Usage
